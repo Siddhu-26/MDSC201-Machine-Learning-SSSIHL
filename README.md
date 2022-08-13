@@ -1,5 +1,5 @@
 # Machine-Learning-SSSIHL
-Assignments and other related files
+Assignments and other related files.
 
 
 ### Assignment 1
